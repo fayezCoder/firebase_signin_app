@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952961377573",
+    "project_id": "signin-2bf3c",
+    "storage_bucket": "signin-2bf3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952961377573:android:de31323b7a07bfa51fe6cc",
+        "android_client_info": {
+          "package_name": "fa.fayezksa.signin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952961377573-biaps7q3cf4ofkddelvtrbd09b8j7iaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxP40LiuDx9tPUfcZFwv92ATLswat1PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952961377573-biaps7q3cf4ofkddelvtrbd09b8j7iaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
